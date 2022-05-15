@@ -58,17 +58,8 @@ input {
 }
 
 .item-task p {
-  color:rgba(5, 4, 17, 0.897);
+  color: rgba(5, 4, 17, 0.897);
   text-transform: capitalize;
   cursor: pointer;
 }
 
-.Clear-button{
-  background-color: rgb(255, 0, 0);
-  color: white;
-  border: none;
-  width: 60px;
-  height: 20px;
-  border-radius: 3px;
-  cursor: pointer;
-}
